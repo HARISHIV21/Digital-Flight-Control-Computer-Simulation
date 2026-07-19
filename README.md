@@ -1,4 +1,4 @@
-# ✈️ Digital Flight Control Computer (DFCC) Simulation
+# Digital Flight Control Computer (DFCC) Simulation
 
 > MATLAB/Simulink implementation of a Digital Flight Control Computer (DFCC) featuring Extended Kalman Filter (EKF) based state estimation, sensor fusion, flight mode management, fault detection, redundancy management, and real-time cockpit monitoring.
 
