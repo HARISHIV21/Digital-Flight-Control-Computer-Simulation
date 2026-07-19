@@ -36,7 +36,7 @@ The system integrates **sensor fusion**, **state estimation**, **fault detection
 ## System Architecture
 
 <p align="center">
-<img src="Images/01Architecture.png" width="900">
+  <img src="./Images/01Architecture.jpg" width="900" alt="System Architecture">
 </p>
 
 The simulation is organized into independent functional modules representing a modern digital flight control architecture.
